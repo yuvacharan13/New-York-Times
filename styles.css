@@ -1,0 +1,9 @@
+.list-group-item a{
+  color: black !important;
+  text-decoration: none !important;
+  display: block;
+}
+
+#myList{
+  max-height: 300px;
+}
